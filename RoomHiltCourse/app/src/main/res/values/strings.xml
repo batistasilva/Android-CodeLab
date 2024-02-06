@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My-Room-Hilt</string>
+    <string name="title_and_desc_cannot_be_empty">Title and Desc cannot be Empty</string>
+    <string name="title_and_desc">Title and Desc cannot be Empty</string>
+    <string name="there_is_no_note">There is no Note!! :(</string>
+</resources>
